@@ -1,0 +1,61 @@
+@import url('https://fonts.googleapis.com/css2?family=Architects+Daughter&family=Concert+One&display=swap');
+
+.search-box {
+  margin-top: 20%;
+  margin-left: 40%;
+  width: 20%;
+  height: 38px;
+  background-color: rgb(57, 64, 74);
+  border: 3px solid #e35865;
+  color: #fff;
+}
+
+.search-btn {
+  margin-left: -50px;
+  height: 33px;
+  color: #e35865;
+  margin-top: -6px;
+  background-color: rgb(57, 64, 74);
+  outline: none;
+  border: none;
+}
+
+.emoji-title {
+  position: absolute;
+  margin-top: 170px;
+  color: #e35865;
+  margin-left: 36%;
+  font-family: 'Architects Daughter', cursive;
+  font-family: 'Concert One', cursive;
+  font-size: 60px;
+}
+
+.search-btn:hover {
+  color: #e35865;
+  background-color: rgb(57, 64, 74);
+}
+
+input[type='text'],
+select {
+  outline: none;
+}
+
+body {
+  background-color: rgb(57, 64, 74);
+}
+
+.emoji-card {
+  width: 30%;
+  margin-top: 20px;
+  margin-left: 20px;
+  border-radius: 10px;
+  background-color: rgb(47, 52, 59);
+}
+
+.card-container {
+  margin-top: 50px;
+  margin-left: 25%;
+  width: 50%;
+  background-color: rgb(57, 64, 74);
+  border-radius: 15px;
+}
